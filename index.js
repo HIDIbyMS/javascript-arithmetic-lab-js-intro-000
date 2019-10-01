@@ -1,4 +1,4 @@
-var total = a + b
+
 function add(a, b) {
-    return total
+    return a + b;
 }
