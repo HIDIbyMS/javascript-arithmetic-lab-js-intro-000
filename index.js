@@ -15,6 +15,8 @@ function divide(a, b) {
   return a / b;
 }
 
+
+
 function inc(n) {
   return n ++;
 }
@@ -27,6 +29,9 @@ function makeInt(n) {
   
 }
 
+function preserveDecimal (n) {
+  return parseInt(n);
+}
 
 
 
